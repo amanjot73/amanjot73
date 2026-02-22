@@ -5,7 +5,7 @@ I'm [**Amanjot Singh**](#), a CSE student focused on backend development and sys
 I enjoy building systems that solve real-world problems and stay stable under pressure.  
 If something can be optimized, I’ll probably try to optimize it.
 
-My main stack is **Python, Django, and SQL**.  
+My main stack is **Python, Django, SQL, C++, and C** — with a strong focus on backend systems and DSA.  
 I also work with Git, VS Code, Figma, and Microsoft Clipchamp.
 
 Right now, I’m building:
