@@ -15,7 +15,7 @@ Right now, I’m building:
 I’m continuously improving in Data Structures, Algorithms, and backend architecture.
 
 If you want to connect, feel free to reach out:
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: https://www.linkedin.com/in/amanjotsingh73
+- Email: kanudeep9876@gmail.com
 
 Open to internships and full-time opportunities.
