@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm **Amanjot Singh**, a CSE student focused on backend development and system design.
+I'm [**Amanjot Singh**](#), a CSE student focused on backend development and system design.
 
 I enjoy building systems that solve real-world problems and stay stable under pressure.  
 If something can be optimized, I’ll probably try to optimize it.
