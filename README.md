@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**amanjot73/amanjot73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amanjot, a CSE student focused on backend development and system design.
 
-Here are some ideas to get you started:
+I enjoy building systems that solve real-world problems and stay stable under pressure.  
+If something can be optimized, I’ll probably try to optimize it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is Python, Django, and SQL.  
+I also work with Git, VS Code, Figma, and Microsoft Clipchamp.
+
+Right now, I’m building:
+- A multi-module Hospital Management System  
+- Khalsa Threads — an e-commerce backend with inventory validation and transaction handling  
+
+I’m continuously improving in Data Structures, Algorithms, and backend architecture.
+
+If you want to connect, feel free to reach out:
+- LinkedIn: (Add your link)
+- Email: (Add your email)
+
+Open to internships and full-time opportunities.
