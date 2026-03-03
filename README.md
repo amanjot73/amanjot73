@@ -1,7 +1,20 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Amanjot+Singh" />
+<!-- Animated Header Wave -->
+
+<!-- Typing Name Animation -->
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&vCenter=true&width=600&lines=Amanjot+Singh" />
 </h1>
-Backend Developer & Data Science Enthusiast<br>Django • Python • SQL • Machine Learning<br>Building scalable systems and data-driven applications.
+
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&vCenter=true&width=500&lines=Backend+Developer;Data+Science+Enthusiast;Building+Scalable+Systems" />
+
+
+
+<p>
+Django • Python • SQL • Machine Learning<br>
+Building scalable systems and data-driven applications.
+</p>
+
 
 
 ## 🌐 Socials:
