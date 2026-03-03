@@ -1,4 +1,6 @@
-# Amanjot Singh
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Amanjot+Singh" />
+</h1>
 Backend Developer & Data Science Enthusiast<br>Django • Python • SQL • Machine Learning<br>Building scalable systems and data-driven applications.
 
 
