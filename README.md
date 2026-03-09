@@ -1,19 +1,21 @@
 <!-- Animated Header Wave -->
 
 <!-- Typing Name Animation -->
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=00F7FF&vCenter=true&width=600&lines=Amanjot+Singh" />
+<!-- Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Amanjot+Singh" />
 </h1>
 
-<!-- Animated Subtitle -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&vCenter=true&width=500&lines=Backend+Developer;Data+Science+Enthusiast;Building+Scalable+Systems" />
+<!-- Skills -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+FastAPI;SQL+%7C+Database+Design;Data+Science+%7C+Machine+Learning;NumPy+%7C+Pandas+%7C+Matplotlib+%7C+Seaborn;Scikit-Learn+%7C+TensorFlow;Data+Analysis+%7C+Feature+Engineering+%7C+Model+Deployment;Git+%7C+Linux+%7C+REST+APIs" />
+</h3>
 
 
-
-<p>
-Django • Python • SQL • Machine Learning<br>
-Building scalable systems and data-driven applications.
+<p align="center">
+🚀 Building scalable full-stack applications, intuitive frontends, powerful backends, and intelligent data-driven systems.
 </p>
+
 
 
 
