@@ -89,10 +89,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanjotsingh73) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanudeep9876@gmail.com) 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amanjot73&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/amanjot73/amanjot73/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
+
+
 
 
 
